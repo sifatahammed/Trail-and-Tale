@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trail-and-Tale/static/css/main.94572bbc.css",
-    "main.js": "/Trail-and-Tale/static/js/main.52cd3aa9.js",
+    "main.js": "/Trail-and-Tale/static/js/main.12e4049f.js",
     "static/js/453.94ba40d3.chunk.js": "/Trail-and-Tale/static/js/453.94ba40d3.chunk.js",
     "static/media/home2.jpg": "/Trail-and-Tale/static/media/home2.1a7b8b354f0b7dc88982.jpg",
     "static/media/bootstrap-icons.woff?": "/Trail-and-Tale/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
@@ -11,11 +11,11 @@
     "static/media/tempsnip.png": "/Trail-and-Tale/static/media/tempsnip.d76045c7b2c555c24fcd.png",
     "index.html": "/Trail-and-Tale/index.html",
     "main.94572bbc.css.map": "/Trail-and-Tale/static/css/main.94572bbc.css.map",
-    "main.52cd3aa9.js.map": "/Trail-and-Tale/static/js/main.52cd3aa9.js.map",
+    "main.12e4049f.js.map": "/Trail-and-Tale/static/js/main.12e4049f.js.map",
     "453.94ba40d3.chunk.js.map": "/Trail-and-Tale/static/js/453.94ba40d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94572bbc.css",
-    "static/js/main.52cd3aa9.js"
+    "static/js/main.12e4049f.js"
   ]
 }
