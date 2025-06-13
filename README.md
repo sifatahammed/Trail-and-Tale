@@ -1,10 +1,8 @@
 # Trail-and-Tale-Modern-Travel-Lifestyle-Blog
 
-A simple, responsive blog website built with React, TypeScript, and Bootstrap.
+A simple, responsive blog website with articles about Travel, Lifestyle, Food, Wellness, Travel Tips, Culture, and Adventure built with React, TypeScript, and Bootstrap.
 
-## 🚀 Demo
-
-[https://www.sifatahammed.github.io/Trail-and-Tale](https://www.sifatahammed.github.io/Trail-and-Tale)
+## 🚀 Demo: [https://www.sifatahammed.github.io/Trail-and-Tale/](https://www.sifatahammed.github.io/Trail-and-Tale/)
 
 ## Features
 
