@@ -2,7 +2,9 @@
 
 A simple, responsive blog website built with React, TypeScript, and Bootstrap.
 
-### Demo : [https://www.sifatahammed.github.io/Trail-and-Tale](https://www.sifatahammed.github.io/Trail-and-Tale)
+## 🚀 Demo
+
+[https://www.sifatahammed.github.io/Trail-and-Tale](https://www.sifatahammed.github.io/Trail-and-Tale)
 
 ## Features
 
