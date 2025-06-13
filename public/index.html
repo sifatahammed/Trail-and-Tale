@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d6efd" />
+    <meta
+      name="description"
+      content="A modern Travel & Lifestyle blog website with articles about Travel, Lifestyle, Food, Wellness, Travel Tips, Culture, and Adventure."
+    />
+    <title>Trail & Tale | Modern Travel & Lifestyle Blog</title>
+
+    <meta property="og:title" content="Trail & Tale | Modern Travel & Lifestyle Blog" />
+    <meta
+      property="og:description"
+      content="Discover articles about Travel, Lifestyle, Food, Wellness, Travel Tips, Culture, and Adventure."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourdomain.com" />
+    <meta property="og:image" content="%PUBLIC_URL%/og-image.jpg" />
+
+    <!-- Fonts -->
+     <link rel="icon" href="/favicon.png" type="image/png" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./index.css">
+
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+    <!-- Preloader -->
+    <div class="preloader" id="preloader">
+      <div class="spinner"></div>
+    </div>
+
+    <div id="root"></div>
+
+    <script>
+      // Remove preloader after page load
+      window.addEventListener("load", function () {
+        const preloader = document.getElementById("preloader");
+        preloader.classList.add("fade-out");
+        setTimeout(function () {
+          preloader.style.display = "none";
+        }, 500);
+
+        // Check for saved theme
+        const savedTheme = localStorage.getItem("theme");
+        if (savedTheme) {
+          document.documentElement.setAttribute("data-bs-theme", savedTheme);
+        }
+      });
+    </script>
+  </body>
+</html>
