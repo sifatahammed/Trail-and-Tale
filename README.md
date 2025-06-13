@@ -2,7 +2,7 @@
 
 A simple, responsive blog website with articles about Travel, Lifestyle, Food, Wellness, Travel Tips, Culture, and Adventure built with React, TypeScript, and Bootstrap.
 
-## 🚀 Demo: [https://www.sifatahammed.github.io/Trail-and-Tale/](https://www.sifatahammed.github.io/Trail-and-Tale/)
+## 🚀 Demo: [https://sifatahammed.github.io/Trail-and-Tale/](https://sifatahammed.github.io/Trail-and-Tale/)
 
 ## Features
 
