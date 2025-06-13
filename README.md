@@ -2,6 +2,8 @@
 
 A simple, responsive blog website built with React, TypeScript, and Bootstrap.
 
+### Demo : sifatahammed.github.io/Trail-and-Tale/
+
 ## Features
 
 - **Home Page**: Displays a list of blog posts with titles, short descriptions, and thumbnails. Includes search and filter functionality.
