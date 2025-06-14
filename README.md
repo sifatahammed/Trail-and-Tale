@@ -30,7 +30,7 @@ A simple, responsive blog website with articles about **Travel**, **Lifestyle**,
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 Trail-and-Tale-Modern-Travel-Lifestyle-Blog/
 ├── public/
 │   └── index.html
@@ -45,7 +45,7 @@ Trail-and-Tale-Modern-Travel-Lifestyle-Blog/
 │   └── index.tsx             # Entry point
 ├── package.json
 └── package-lock.json
-\`\`\`
+```
 
 ---
 
@@ -58,21 +58,21 @@ Trail-and-Tale-Modern-Travel-Lifestyle-Blog/
 
 ### 🔧 Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/sifatahammed/Trail-and-Tale-Modern-Travel-Lifestyle-Blog
 cd Trail-and-Tale-Modern-Travel-Lifestyle-Blog
 npm install
 npm start
-\`\`\`
+```
 
 ---
 
 ## 🧪 Available Scripts
 
-- \`npm start\` — 🚀 Start the development server  
-- \`npm test\` — ✅ Run tests  
-- \`npm run build\` — 🏗️ Build the app for production  
-- \`npm run eject\` — 💣 Eject from CRA (use with caution)
+- `npm start` — 🚀 Start the development server  
+- `npm test` — ✅ Run tests  
+- `npm run build` — 🏗️ Build the app for production  
+- `npm run eject` — 💣 Eject from CRA (use with caution)
 
 ---
 
