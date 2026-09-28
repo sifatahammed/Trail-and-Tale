@@ -819,9 +819,8 @@ The project architecture includes:
 MIT License © MD Sifat Ahammed Akash
 </div>
 <div align="center">
-⭐ If you find VougeNest useful, consider giving the repository a star!
+⭐ If you find Trail-and-Tale useful, consider giving the repository a Star!
 
-Built with ❤️ using React, Node.js, Express, MongoDB, and Cloudinary.
 
 <p align="center">
   <strong>🌍 Explore. Read. Discover. — Trail-and-Tale</strong>
