@@ -810,7 +810,6 @@ The project architecture includes:
   </a>
 </p>
 
----
 
 ## 📄 License
 
