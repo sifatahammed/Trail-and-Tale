@@ -1,21 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
 <p align="center" style="margin:0; padding:0;">
-  <picture>
-    <!-- Dark mode logo -->
-    <source media="(prefers-color-scheme: dark)" srcset="public/logo-dark.png" />
-
-    <!-- Light mode logo -->
-    <source media="(prefers-color-scheme: light)" srcset="public/logo-light.png" />
-
-    <!-- Fallback -->
-    <img
-      alt="Trail-and-Tale Logo"
-      src="public/logo-light.png"
-      width="300"
+   <img
+      alt="VanLife Logo"
+      src="src/assets/logo.png"
+      width="400"
       style="margin-top:-80px; margin-bottom:0; padding:0;"
     />
-  </picture>
+   
 </p>
 
 <h1 align="center">🌍 Trail-and-Tale</h1>
