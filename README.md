@@ -812,17 +812,16 @@ The project architecture includes:
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is licensed under the **MIT License**.
+<div align="center">
 
-See the [LICENSE](./LICENSE) file for more information.
+MIT License © MD Sifat Ahammed Akash
+</div>
+<div align="center">
+⭐ If you find VougeNest useful, consider giving the repository a star!
 
----
-
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving it a ⭐ on GitHub!
+Built with ❤️ using React, Node.js, Express, MongoDB, and Cloudinary.
 
 <p align="center">
   <strong>🌍 Explore. Read. Discover. — Trail-and-Tale</strong>
