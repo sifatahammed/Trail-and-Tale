@@ -3,7 +3,7 @@
 <p align="center" style="margin:0; padding:0;">
    <img
       alt="VanLife Logo"
-      src="src/assets/logo.png"
+      src="public/logo.png"
       width="400"
       style="margin-top:-80px; margin-bottom:0; padding:0;"
     />
