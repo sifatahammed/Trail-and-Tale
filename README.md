@@ -1,99 +1,111 @@
 # 🌍 Trail-and-Tale — Modern Travel & Lifestyle Blog
 
-A simple, responsive blog website with articles about **Travel**, **Lifestyle**, **Food**, **Wellness**, **Travel Tips**, **Culture**, and **Adventure** — built with ⚛️ **React**, 🟦 **TypeScript**, and 🎨 **Bootstrap**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Trail-and-Tale&fontSize=50&fontAlignY=35&desc=Modern%20Travel%20%26%20Lifestyle%20Blog&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
-## 🚀 Live Demo  
-🔗 [https://sifatahammed.github.io/Trail-and-Tale/](https://sifatahammed.github.io/Trail-and-Tale/)
+<p align="center">
+  <strong>Discover stories. Explore places. Save experiences.</strong>
+</p>
 
----
+<p align="center">
+  A modern, responsive single-page travel and lifestyle blog built with React, TypeScript, React Router, and Bootstrap.
+</p>
 
-## ✨ Features
-
-- 🏠 **Home Page**: Browse all blog posts with thumbnails, summaries, and filters  
-- 📝 **Blog Post Page**: View full post content with related post suggestions  
-- 🏷️ **Categories/Tags**: Sort and filter posts by topic or tag  
-- 👤 **About Page**: Learn about the blog and its creator  
-- 📬 **Contact Page**: Simple form for user inquiries (mock functionality)  
-- 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop
-
----
-
-## 🛠️ Technologies Used
-
-- ⚛️ React  
-- 🟦 TypeScript  
-- 🔁 React Router  
-- 🎨 Bootstrap  
-- 🧼 CSS  
+<p align="center">
+  <a href="https://sifatahammed.github.io/Trail-and-Tale/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Trail--and--Tale-blue?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-5+-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
 ---
 
-## 📁 Project Structure
+## 🚀 Live Demo
 
-```
-Trail-and-Tale-Modern-Travel-Lifestyle-Blog/
-├── public/
-│   └── index.html
-├── src/
-│   ├── app-components/       # Shared layout components
-│   ├── components/           # Reusable UI elements
-│   ├── css/                  # Custom styles
-│   ├── images/               # Image assets
-│   ├── pages/                # Page-level components
-│   ├── types/                # TypeScript types
-│   ├── utils/                # Helper functions
-│   └── index.tsx             # Entry point
-├── package.json
-└── package-lock.json
-```
+🌐 **[Visit Trail-and-Tale](https://sifatahammed.github.io/Trail-and-Tale/)**
 
 ---
 
-## ⚙️ Getting Started
+## 📖 About The Project
 
-### 📦 Prerequisites
+**Trail-and-Tale** is a modern travel and lifestyle blog designed to provide visitors with an engaging way to discover articles, explore categories, bookmark interesting posts, and interact with content.
 
-- 🟢 Node.js (v14 or later)  
-- 🧶 npm or yarn
+The application follows a **single-page application (SPA)** architecture using React and React Router. Content is currently powered by local/mock data, while browser `localStorage` is used to persist user-specific interactions such as bookmarks and comments.
 
-### 🔧 Installation
+The project demonstrates practical frontend development concepts including:
 
-```bash
-git clone https://github.com/sifatahammed/Trail-and-Tale-Modern-Travel-Lifestyle-Blog
-cd Trail-and-Tale-Modern-Travel-Lifestyle-Blog
-npm install
-npm start
-```
-
----
-
-## 🧪 Available Scripts
-
-- `npm start` — 🚀 Start the development server  
-- `npm test` — ✅ Run tests  
-- `npm run build` — 🏗️ Build the app for production  
-- `npm run eject` — 💣 Eject from CRA (use with caution)
+- Component-based architecture
+- Client-side routing
+- Type-safe development with TypeScript
+- Reusable UI components
+- Context-based theme management
+- Browser local storage
+- Responsive design
+- Content filtering and discovery
+- Dynamic blog post pages
+- Bookmark management
+- Comment interaction
+- Contact/inquiry handling
 
 ---
 
-## 👨‍💻 Author
+# ✨ Features
 
-Made with ❤️ by **MD Sifat Ahammed Akash**
+## 🏠 Home Feed
 
-- 📧 sifatahammed821@gmail.com  
-- 🐙 [GitHub](https://github.com/sifatahammed)  
+The home page acts as the primary content discovery interface.
+
+- Featured articles
+- Latest blog posts
+- Article cards
+- Post summaries
+- Category navigation
+- Responsive content layout
+- Dynamic post rendering
+
 ---
 
-## 📜 License
+## 🏷️ Category Browser
 
-📝 This project is licensed under the **MIT License**.
+Browse articles according to their category.
+
+Supported content areas include:
+
+- ✈️ Travel
+- 🌿 Lifestyle
+- 🍜 Food
+- 🧘 Wellness
+- 🧭 Travel Tips
+- 🏛️ Culture
+- 🏔️ Adventure
+
+The category browser provides an organized way to discover related content.
 
 ---
 
-## 🌟 Future Enhancements
+## 📝 Article Pages
 
-- 🔐 User authentication  
-- 💬 Comment system  
-- 🗂️ Backend integration  
-- 🔢 Pagination support  
-- 🌙 Dark mode toggle
+Each article has its own dedicated route and page.
+
+Article pages provide:
+
+- Full article content
+- Article metadata
+- Bookmark functionality
+- Comment functionality
+- Related content
+- Responsive reading experience
+
+---
+
+## 🔖 Bookmarks
+
+Users can save interesting articles for later.
+
+Bookmarks are persisted using the browser's:
+
+```text
+localStorage
